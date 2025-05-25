@@ -367,7 +367,7 @@ const allQuestions = [
       "Performing surgery.",
       "Providing oxygen therapy."
     ],
-    correctIndex: 0
+    correctIndex: 1
   },
   {
     question: "Which of the following is a risk factor for septic shock?",
