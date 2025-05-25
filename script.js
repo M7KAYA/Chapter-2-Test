@@ -1277,7 +1277,7 @@ const allQuestions = [
       "Minimal scarring",
       "Rapid healing"
     ],
-    correctIndex: "1
+    correctIndex: 1
   },
   {
     question: "Which method is used to estimate the extent of a burn?",
