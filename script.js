@@ -882,12 +882,12 @@ const allQuestions = [
       "A chronic condition affecting internal organs",
       "A temporary discoloration of the skin"
     ],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Which of the following is an example of an intentional wound?",
     options: ["Gunshot wound", "Surgical incision", "Burn", "Animal bite"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What characterizes unintentional wounds?",
@@ -897,22 +897,22 @@ const allQuestions = [
       "Sterile conditions and facilitated healing",
       "Minimal tissue damage"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which type of wound involves a clean separation of skin and tissue with smooth edges?",
     options: ["Laceration", "Avulsion", "Incision", "Puncture"],
-    correctIndex: "2"
+    correctIndex: 2
   },
   {
     question: "What is a common cause of abrasion wounds?",
     options: ["Animal bites", "Falls", "Gunshots", "Surgical procedures"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which wound type involves the forcible separation or tearing of tissue from the body?",
     options: ["Incision", "Avulsion", "Puncture", "Contusion"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is a key characteristic of puncture wounds?",
@@ -922,17 +922,17 @@ const allQuestions = [
       "Smooth, even edges",
       "Rapid healing"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is another name for a closed wound?",
     options: ["Incision", "Bruise or contusion", "Laceration", "Abrasion"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which of the following is a sign of a closed wound with internal injury?",
     options: ["Smooth skin", "Cold, clammy, pale skin", "No pain", "Rapid healing"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What distinguishes acute wounds from chronic wounds?",
@@ -942,12 +942,12 @@ const allQuestions = [
       "Chronic wounds have clean edges",
       "Acute wounds are caused by blunt force"
     ],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Which factor is a local factor affecting wound healing?",
     options: ["Age", "Infection", "Nutritional status", "Immunosuppression"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the most serious complication of dehiscence?",
@@ -957,7 +957,7 @@ const allQuestions = [
       "Minor bleeding",
       "Scarring"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the first step in controlling bleeding for first aid?",
@@ -967,7 +967,7 @@ const allQuestions = [
       "Encourage the casualty to lie down and rest",
       "Use indirect pressure"
     ],
-    correctIndex: "2"
+    correctIndex: 2
   },
   {
     question: "When should indirect pressure be applied to control bleeding?",
@@ -977,7 +977,7 @@ const allQuestions = [
       "Only for puncture wounds",
       "When the wound is infected"
     ],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "What is a sign of an infected wound?",
@@ -987,7 +987,7 @@ const allQuestions = [
       "No pain",
       "Smooth edges"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "How can tetanus be prevented after an injury?",
@@ -997,7 +997,7 @@ const allQuestions = [
       "By scrubbing the wound vigorously",
       "By leaving the wound uncovered"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What should you avoid when providing emergency care for minor wounds?",
@@ -1007,7 +1007,7 @@ const allQuestions = [
       "Using sterile bandages",
       "Cleaning the wound"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What should you do if a foreign object is deeply embedded in a major wound?",
@@ -1017,7 +1017,7 @@ const allQuestions = [
       "Avoid removing it and seek medical help",
       "Ignore the object"
     ],
-    correctIndex: "2"
+    correctIndex: 2
   },
   {
     question: "What is the recommended action for a suspected closed fracture?",
@@ -1027,7 +1027,7 @@ const allQuestions = [
       "Apply heat to the area",
       "Give fluids by mouth"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What should you do for a victim suspected of internal injury?",
@@ -1037,7 +1037,7 @@ const allQuestions = [
       "Encourage them to walk",
       "Apply direct pressure to the abdomen"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is a characteristic of intentional wounds?",
@@ -1047,62 +1047,62 @@ const allQuestions = [
       "Jagged edges",
       "Accidental causes"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which of the following is an example of a closed wound?",
     options: ["Surgical incision", "Gunshot wound", "Bruise or contusion", "Laceration"],
-    correctIndex: "2"
+    correctIndex: 2
   },
   {
     question: "Intentional wounds are created for therapeutic purposes.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Chronic wounds heal faster than acute wounds.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Puncture wounds are more likely to become infected than some other wounds.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Elevating a wounded limb above the heart can help reduce bleeding.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Direct pressure should always be applied for longer than 10 minutes to stop bleeding.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Tetanus can be prevented by immunization.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "For a suspected internal injury, fluids should be given by mouth to prevent thirst.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the outermost layer of the skin?",
     options: ["Epidermis", "Dermis", "Subcutaneous tissue", "Hypodermis"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Which layer of the skin provides strength and structure?",
     options: ["Epidermis", "Dermis", "Subcutaneous tissue", "Keratinocytes"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What type of burn injury results from exposure to acids or alkalis?",
     options: ["Thermal", "Chemical", "Radiation", "Electric"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which of the following is a characteristic of superficial (first-degree) burns?",
@@ -1112,7 +1112,7 @@ const allQuestions = [
       "Exposure of the fat layer",
       "Requires surgical intervention for healing"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What determines the depth of a burn injury?",
@@ -1122,7 +1122,7 @@ const allQuestions = [
       "The patient’s age and medical history",
       "The type of first aid applied"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which burn depth involves destruction of all epidermal and dermal elements?",
@@ -1132,17 +1132,17 @@ const allQuestions = [
       "Deep partial-thickness",
       "Full-thickness"
     ],
-    correctIndex: "3"
+    correctIndex: 3
   },
   {
     question: "According to the \"rule of nines,\" what percentage of TBSA is allocated to each arm?",
     options: ["9%", "18%", "1%", "36%"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Which body part accounts for 1% of TBSA in the \"rule of nines\"?",
     options: ["Head", "Perineum", "Anterior trunk", "Leg"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is a common complication of deep partial-thickness and full-thickness burns?",
@@ -1152,12 +1152,12 @@ const allQuestions = [
       "Increased urine output",
       "Hypothermia"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which phase of burn care begins 48 to 72 hours after the injury?",
     options: ["Emergent", "Acute", "Rehabilitation", "Resuscitative"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the priority during the emergent phase of burn care?",
@@ -1167,7 +1167,7 @@ const allQuestions = [
       "Psychological counseling",
       "Occupational therapy"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which fluid is commonly used for initial resuscitation in burn patients?",
@@ -1177,7 +1177,7 @@ const allQuestions = [
       "Hypertonic saline",
       "Colloids only"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the goal of hypertonic saline solution in burn management?",
@@ -1187,7 +1187,7 @@ const allQuestions = [
       "Replace lost hemoglobin",
       "Provide nutritional support"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which of the following is a sign of inhalation injury?",
@@ -1197,7 +1197,7 @@ const allQuestions = [
       "Hypothermia",
       "Bradycardia"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the primary purpose of a nasogastric tube in major burn patients?",
@@ -1207,7 +1207,7 @@ const allQuestions = [
       "Monitor core body temperature",
       "Provide nutritional support"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which electrolyte imbalance is common in the emergent phase due to cellular trauma?",
@@ -1217,7 +1217,7 @@ const allQuestions = [
       "Calcium deficit",
       "Phosphorus excess"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is a key nursing intervention to promote gas exchange in burn patients?",
@@ -1227,7 +1227,7 @@ const allQuestions = [
       "Administer antacids",
       "Elevate burned extremities"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which complication is associated with circumferential burns on extremities?",
@@ -1237,7 +1237,7 @@ const allQuestions = [
       "Paralytic ileus",
       "Acute renal failure"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the purpose of escharotomy in burn management?",
@@ -1247,12 +1247,12 @@ const allQuestions = [
       "Prevent infection",
       "Promote wound healing"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which medication is commonly administered to prevent Curling’s ulcer?",
     options: ["Opioids", "Ranitidine (Zantac)", "Antibiotics", "Diuretics"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the focus of the rehabilitation phase in burn care?",
@@ -1262,7 +1262,7 @@ const allQuestions = [
       "Wound debridement",
       "Pain management"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Which of the following is a systemic factor affecting wound healing?",
@@ -1277,7 +1277,7 @@ const allQuestions = [
       "Minimal scarring",
       "Rapid healing"
     ],
-    correctIndex: "1"
+    correctIndex: "1
   },
   {
     question: "Which method is used to estimate the extent of a burn?",
@@ -1287,7 +1287,7 @@ const allQuestions = [
       "Urine output measurement",
       "Core temperature assessment"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the primary cause of death at the scene of a fire?",
@@ -1297,57 +1297,57 @@ const allQuestions = [
       "Electric shock",
       "Chemical exposure"
     ],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "The epidermis is the innermost layer of the skin.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Superficial burns affect only the epidermal layer.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Chemical burns are caused by exposure to acids or alkalis.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Full-thickness burns heal without scarring.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "The \"rule of nines\" allocates 18% TBSA to each leg.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "The emergent phase of burn care focuses on wound closure.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "Lactated Ringer’s solution is commonly used for fluid resuscitation in burn patients.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Inhalation injury is characterized by singed nostrils and hoarseness.",
     options: ["True", "False"],
-    correctIndex: "0"
+    correctIndex: 0
   },
   {
     question: "Potassium levels decrease in the emergent phase due to cellular trauma.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "The rehabilitation phase begins immediately after the burn injury.",
     options: ["True", "False"],
-    correctIndex: "1"
+    correctIndex: 1
   },
   {
     question: "What is the definition of a poison?",
