@@ -321,7 +321,7 @@ const allQuestions = [
   },
   {
     question: "What is the primary function of the circulatory system?",
-    choices: [
+    options: [
       "To drive blood through the cardiovascular system, delivering oxygenated blood to tissues and deoxygenated blood to the lungs.",
       "To produce hormones for metabolic regulation.",
       "To filter toxins from the blood.",
@@ -331,7 +331,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a characteristic feature of neurogenic shock?",
-    choices: [
+    options: [
       "Tachycardia and cool, clammy skin.",
       "Bradycardia and dry, warm skin.",
       "Hypertension and flushed skin.",
@@ -341,7 +341,7 @@ const allQuestions = [
   },
   {
     question: "What is the most common type of shock?",
-    choices: [
+    options: [
       "Cardiogenic shock.",
       "Septic shock.",
       "Hypovolemic shock.",
@@ -351,7 +351,7 @@ const allQuestions = [
   },
   {
     question: "Which electrolyte imbalance can contribute to shock?",
-    choices: [
+    options: [
       "Hyperglycemia.",
       "Hypokalcemia.",
       "Hypernatremia.",
@@ -361,7 +361,7 @@ const allQuestions = [
   },
   {
     question: "What is the first-line treatment for all types of shock?",
-    choices: [
+    options: [
       "Administering vasopressors.",
       "Fluid resuscitation via IV.",
       "Performing surgery.",
@@ -371,7 +371,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a risk factor for septic shock?",
-    choices: [
+    options: [
       "Immunosuppression.",
       "Latex sensitivity.",
       "Spinal cord injury.",
@@ -381,7 +381,7 @@ const allQuestions = [
   },
   {
     question: "In which stage of shock do compensatory mechanisms become ineffective?",
-    choices: [
+    options: [
       "Compensatory shock.",
       "Progressive shock.",
       "Irreversible shock.",
@@ -391,7 +391,7 @@ const allQuestions = [
   },
   {
     question: "What is a key sign of hypovolemic shock?",
-    choices: [
+    options: [
       "Hypertension.",
       "Bradycardia.",
       "Low blood pressure and rapid heart rate.",
@@ -401,7 +401,7 @@ const allQuestions = [
   },
   {
     question: "Which medication is used to improve cardiac output in shock?",
-    choices: [
+    options: [
       "Nitroglycerin.",
       "Dobutamine.",
       "Insulin.",
@@ -411,7 +411,7 @@ const allQuestions = [
   },
   {
     question: "What is the normal range for central venous pressure (CVP)?",
-    choices: [
+    options: [
       "1–3 cm of water.",
       "5–10 cm of water.",
       "12–15 cm of water.",
@@ -421,7 +421,7 @@ const allQuestions = [
   },
   {
     question: "Which type of shock is caused by severe allergic reactions?",
-    choices: [
+    options: [
       "Cardiogenic shock.",
       "Anaphylactic shock.",
       "Neurogenic shock.",
@@ -431,7 +431,7 @@ const allQuestions = [
   },
   {
     question: "What is a common cause of cardiogenic shock?",
-    choices: [
+    options: [
       "Severe dehydration.",
       "Myocardial infarction.",
       "Spinal anesthesia.",
@@ -441,7 +441,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a warning sign of shock?",
-    choices: [
+    options: [
       "Increased urine output.",
       "Hypertension.",
       "Cool, clammy skin.",
@@ -451,7 +451,7 @@ const allQuestions = [
   },
   {
     question: "What is the primary goal of nursing interventions in hypovolemic shock?",
-    choices: [
+    options: [
       "Administering bronchodilators.",
       "Preventing further fluid loss.",
       "Elevating the head to 90 degrees.",
@@ -461,7 +461,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a vasopressor agent used in shock treatment?",
-    choices: [
+    options: [
       "Nitroglycerin.",
       "Norepinephrine.",
       "Furosemide.",
@@ -471,7 +471,7 @@ const allQuestions = [
   },
   {
     question: "What is the correct positioning for a patient in shock without spinal injury?",
-    choices: [
+    options: [
       "High Fowler’s position.",
       "Supine with legs elevated.",
       "Side-lying position.",
@@ -481,7 +481,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a cause of distributive shock?",
-    choices: [
+    options: [
       "Hemorrhage.",
       "Widespread vasodilation.",
       "Heart failure.",
@@ -491,7 +491,7 @@ const allQuestions = [
   },
   {
     question: "What is a clinical feature of irreversible shock?",
-    choices: [
+    options: [
       "Normal blood pressure.",
       "Increased urinary output.",
       "Multiple organ failure.",
@@ -501,7 +501,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a risk factor for anaphylactic shock?",
-    choices: [
+    options: [
       "Chronic illness.",
       "Penicillin sensitivity.",
       "Malnourishment.",
@@ -511,7 +511,7 @@ const allQuestions = [
   },
   {
     question: "What is the role of histamine in anaphylactic shock?",
-    choices: [
+    options: [
       "It increases cardiac output.",
       "It causes vasodilation and a drop in blood pressure.",
       "It stimulates the sympathetic nervous system.",
@@ -521,7 +521,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a sign of cardiogenic shock?",
-    choices: [
+    options: [
       "Hypertension.",
       "Bradycardia.",
       "Sudden, rapid heartbeat (tachycardia).",
@@ -531,7 +531,7 @@ const allQuestions = [
   },
   {
     question: "What is the primary cause of septic shock?",
-    choices: [
+    options: [
       "Severe allergic reaction.",
       "Bacterial toxins causing vasodilation.",
       "Spinal cord injury.",
@@ -541,7 +541,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a nursing diagnosis for shock?",
-    choices: [
+    options: [
       "Increased cardiac output.",
       "Fluid volume excess.",
       "Impaired gas exchange.",
@@ -551,7 +551,7 @@ const allQuestions = [
   },
   {
     question: "What is the purpose of Trendelenburg positioning in shock management?",
-    choices: [
+    options: [
       "To reduce blood flow to vital organs.",
       "To increase blood flow to vital organs.",
       "To restrict breathing.",
@@ -561,7 +561,7 @@ const allQuestions = [
   },
   {
     question: "Which of the following is a characteristic of compensatory shock?",
-    choices: [
+    options: [
       "Blood pressure is unresponsive to treatment.",
       "Compensatory mechanisms maintain vital functions.",
       "Multiple organ failure occurs.",
@@ -571,52 +571,52 @@ const allQuestions = [
   },
   {
     question: "Shock is a life-threatening condition that affects all body systems.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "Hypovolemic shock is caused by excessive fluid intake.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 1
   },
   {
     question: "Neurogenic shock is characterized by tachycardia.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 1
   },
   {
     question: "Septic shock is the most common type of circulatory shock.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "In irreversible shock, multiple organ failure occurs.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "Low blood pressure and rapid heart rate are key signs of shock.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "Anaphylactic shock is caused by bacterial toxins.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 1
   },
   {
     question: "Cardiogenic shock can result from myocardial infarction.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "The normal cardiac index is 2.5 to 3.5 l/min/m².",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 0
   },
   {
     question: "Vasopressor agents reduce blood pressure in shock.",
-    choices: ["True", "False"],
+    options: ["True", "False"],
     correctIndex: 1
   },
 {
