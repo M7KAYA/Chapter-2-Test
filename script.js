@@ -627,7 +627,7 @@ const allQuestions = [
       "The blockage of blood flow to tissues.",
       "The rupture of capillaries only."
     ],
-    correctAnswer: "The flow of blood outside blood vessels."
+    correctIndex: "The flow of blood outside blood vessels."
   },
   {
     question: "Which type of bleeding is characterized by bright red blood that spurts in time with the heartbeat?",
@@ -637,7 +637,7 @@ const allQuestions = [
       "Capillary bleeding.",
       "Internal bleeding."
     ],
-    correctAnswer: "Arterial bleeding."
+    correctIndex: "Arterial bleeding."
   },
   {
     question: "What is a common sign of internal bleeding?",
@@ -647,7 +647,7 @@ const allQuestions = [
       "Slow, strong pulse.",
       "Increased blood pressure."
     ],
-    correctAnswer: "Hemoptysis (coughing up blood)."
+    correctIndex: "Hemoptysis (coughing up blood)."
   },
   {
     question: "Which of the following is a risk of venous bleeding?",
@@ -657,7 +657,7 @@ const allQuestions = [
       "Bright red blood flow.",
       "High oxygen content in the blood."
     ],
-    correctAnswer: "Air embolus from air entering a damaged vein."
+    correctIndex: "Air embolus from air entering a damaged vein."
   },
   {
     question: "What is the first step in controlling external bleeding?",
@@ -667,7 +667,7 @@ const allQuestions = [
       "Using a tourniquet immediately.",
       "Applying ice to the wound."
     ],
-    correctAnswer: "Elevating the wound above heart level."
+    correctIndex: "Elevating the wound above heart level."
   },
   {
     question: "Where should pressure be applied to control bleeding from the arm?",
@@ -677,7 +677,7 @@ const allQuestions = [
       "Carotid artery.",
       "Radial artery."
     ],
-    correctAnswer: "Brachial artery."
+    correctIndex: "Brachial artery."
   },
   {
     question: "What is a key symptom of capillary bleeding?",
@@ -687,7 +687,7 @@ const allQuestions = [
       "Medium red, slow oozing.",
       "No visible bleeding."
     ],
-    correctAnswer: "Medium red, slow oozing."
+    correctIndex: "Medium red, slow oozing."
   },
   {
     question: "When should a tourniquet be used?",
@@ -697,7 +697,7 @@ const allQuestions = [
       "For all cases of venous bleeding.",
       "As the first-line treatment for nosebleeds."
     ],
-    correctAnswer: "Only when direct pressure and elevation fail to stop life-threatening bleeding."
+    correctIndex: "Only when direct pressure and elevation fail to stop life-threatening bleeding."
   },
   {
     question: "What is the correct position for a nosebleed casualty?",
@@ -707,7 +707,7 @@ const allQuestions = [
       "Lying flat with legs elevated.",
       "Standing upright."
     ],
-    correctAnswer: "Head forward, pinching the soft part of the nose."
+    correctIndex: "Head forward, pinching the soft part of the nose."
   },
   {
     question: "Which artery is compressed to control bleeding from the lower limb?",
@@ -717,7 +717,7 @@ const allQuestions = [
       "Radial artery.",
       "Temporal artery."
     ],
-    correctAnswer: "Femoral artery."
+    correctIndex: "Femoral artery."
   },
   {
     question: "What is not a sign of abdominal bleeding?",
@@ -727,7 +727,7 @@ const allQuestions = [
       "Warm, dry skin.",
       "Symptoms of shock."
     ],
-    correctAnswer: "Warm, dry skin."
+    correctIndex: "Warm, dry skin."
   },
   {
     question: "How should a scalp wound with a suspected fracture be treated?",
@@ -737,7 +737,7 @@ const allQuestions = [
       "Plug the wound tightly.",
       "Immerse in cold water."
     ],
-    correctAnswer: "Avoid heavy pressure, cover with dressing."
+    correctIndex: "Avoid heavy pressure, cover with dressing."
   },
   {
     question: "What is hematuria?",
@@ -747,7 +747,7 @@ const allQuestions = [
       "Vomiting blood.",
       "Coughing up blood."
     ],
-    correctAnswer: "Blood in urine."
+    correctIndex: "Blood in urine."
   },
   {
     question: "Which of the following is not a pressure point?",
@@ -757,7 +757,7 @@ const allQuestions = [
       "Pulmonary artery.",
       "Brachial artery."
     ],
-    correctAnswer: "Pulmonary artery."
+    correctIndex: "Pulmonary artery."
   },
   {
     question: "What should be avoided when treating mouth bleeding?",
@@ -767,7 +767,7 @@ const allQuestions = [
       "Tilting the head forward.",
       "Using a clean dressing."
     ],
-    correctAnswer: "Rinsing the mouth vigorously."
+    correctIndex: "Rinsing the mouth vigorously."
   },
   {
     question: "What is the primary treatment for bruises?",
@@ -777,7 +777,7 @@ const allQuestions = [
       "Massaging the bruise.",
       "Applying tight bandages."
     ],
-    correctAnswer: "Elevating and cooling the injured area."
+    correctIndex: "Elevating and cooling the injured area."
   },
   {
     question: "Which of the following is a sign of shock due to bleeding?",
@@ -787,7 +787,7 @@ const allQuestions = [
       "Rapid, weak pulse.",
       "High blood pressure."
     ],
-    correctAnswer: "Rapid, weak pulse."
+    correctIndex: "Rapid, weak pulse."
   },
   {
     question: "What is melena?",
@@ -797,7 +797,7 @@ const allQuestions = [
       "Blood in urine.",
       "Blood in saliva."
     ],
-    correctAnswer: "Blood in stool (black stool)."
+    correctIndex: "Blood in stool (black stool)."
   },
   {
     question: "How should a casualty with abdominal bleeding be positioned?",
@@ -807,7 +807,7 @@ const allQuestions = [
       "Standing upright.",
       "Lying on the stomach."
     ],
-    correctAnswer: "Half-sitting with knees bent."
+    correctIndex: "Half-sitting with knees bent."
   },
   {
     question: "What is a danger of applying pressure to both carotid arteries simultaneously?",
@@ -817,7 +817,7 @@ const allQuestions = [
       "Causing a nosebleed.",
       "Reducing heart rate."
     ],
-    correctAnswer: "Cutting off blood supply to the brain."
+    correctIndex: "Cutting off blood supply to the brain."
   },
   {
     question: "What is the least common type of external bleeding?",
@@ -827,7 +827,7 @@ const allQuestions = [
       "Arterial bleeding.",
       "Internal bleeding."
     ],
-    correctAnswer: "Arterial bleeding."
+    correctIndex: "Arterial bleeding."
   },
   {
     question: "What should not be done when treating a protruding intestine?",
@@ -837,42 +837,42 @@ const allQuestions = [
       "Applying gentle pressure around the wound.",
       "Keeping the casualty in a half-sitting position."
     ],
-    correctAnswer: "Pushing the intestine back inside."
+    correctIndex: "Pushing the intestine back inside."
   },
   {
     question: "Direct pressure is the main treatment for controlling bleeding.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Arterial bleeding is dark red and flows steadily.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "A tourniquet should be the first method used for all severe bleeding.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "Elevating a bleeding wound can help slow blood flow.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Internal bleeding is always visible externally.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "Pressure points are used to compress veins, not arteries.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "In nosebleeds, the casualty should tilt their head backward to stop bleeding.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "What is the definition of a wound?",
@@ -1093,17 +1093,17 @@ const allQuestions = [
    {
     question: "What is the outermost layer of the skin?",
     options: ["Epidermis", "Dermis", "Subcutaneous tissue", "Hypodermis"],
-    correctAnswer: "Epidermis"
+    correctIndex: "Epidermis"
   },
   {
     question: "Which layer of the skin provides strength and structure?",
     options: ["Epidermis", "Dermis", "Subcutaneous tissue", "Keratinocytes"],
-    correctAnswer: "Dermis"
+    correctIndex: "Dermis"
   },
   {
     question: "What type of burn injury results from exposure to acids or alkalis?",
     options: ["Thermal", "Chemical", "Radiation", "Electric"],
-    correctAnswer: "Chemical"
+    correctIndex: "Chemical"
   },
   {
     question: "Which of the following is a characteristic of superficial (first-degree) burns?",
@@ -1113,7 +1113,7 @@ const allQuestions = [
       "Exposure of the fat layer",
       "Requires surgical intervention for healing"
     ],
-    correctAnswer: "Pain and itching due to sensory receptor stimulation"
+    correctIndex: "Pain and itching due to sensory receptor stimulation"
   },
   {
     question: "What determines the depth of a burn injury?",
@@ -1123,7 +1123,7 @@ const allQuestions = [
       "The patient’s age and medical history",
       "The type of first aid applied"
     ],
-    correctAnswer: "The temperature of the injuring agent, duration of exposure, and body area exposed"
+    correctIndex: "The temperature of the injuring agent, duration of exposure, and body area exposed"
   },
   {
     question: "Which burn depth involves destruction of all epidermal and dermal elements?",
@@ -1133,17 +1133,17 @@ const allQuestions = [
       "Deep partial-thickness",
       "Full-thickness"
     ],
-    correctAnswer: "Full-thickness"
+    correctIndex: "Full-thickness"
   },
   {
     question: "According to the \"rule of nines,\" what percentage of TBSA is allocated to each arm?",
     options: ["9%", "18%", "1%", "36%"],
-    correctAnswer: "9%"
+    correctIndex: "9%"
   },
   {
     question: "Which body part accounts for 1% of TBSA in the \"rule of nines\"?",
     options: ["Head", "Perineum", "Anterior trunk", "Leg"],
-    correctAnswer: "Perineum"
+    correctIndex: "Perineum"
   },
   {
     question: "What is a common complication of deep partial-thickness and full-thickness burns?",
@@ -1153,12 +1153,12 @@ const allQuestions = [
       "Increased urine output",
       "Hypothermia"
     ],
-    correctAnswer: "Scarring and contractures"
+    correctIndex: "Scarring and contractures"
   },
   {
     question: "Which phase of burn care begins 48 to 72 hours after the injury?",
     options: ["Emergent", "Acute", "Rehabilitation", "Resuscitative"],
-    correctAnswer: "Acute"
+    correctIndex: "Acute"
   },
   {
     question: "What is the priority during the emergent phase of burn care?",
@@ -1168,7 +1168,7 @@ const allQuestions = [
       "Psychological counseling",
       "Occupational therapy"
     ],
-    correctAnswer: "Fluid resuscitation"
+    correctIndex: "Fluid resuscitation"
   },
   {
     question: "Which fluid is commonly used for initial resuscitation in burn patients?",
@@ -1178,7 +1178,7 @@ const allQuestions = [
       "Hypertonic saline",
       "Colloids only"
     ],
-    correctAnswer: "Lactated Ringer’s solution"
+    correctIndex: "Lactated Ringer’s solution"
   },
   {
     question: "What is the goal of hypertonic saline solution in burn management?",
@@ -1188,7 +1188,7 @@ const allQuestions = [
       "Replace lost hemoglobin",
       "Provide nutritional support"
     ],
-    correctAnswer: "Reduce edema and prevent pulmonary complications"
+    correctIndex: "Reduce edema and prevent pulmonary complications"
   },
   {
     question: "Which of the following is a sign of inhalation injury?",
@@ -1198,7 +1198,7 @@ const allQuestions = [
       "Hypothermia",
       "Bradycardia"
     ],
-    correctAnswer: "Singed nostrils"
+    correctIndex: "Singed nostrils"
   },
   {
     question: "What is the primary purpose of a nasogastric tube in major burn patients?",
@@ -1208,7 +1208,7 @@ const allQuestions = [
       "Monitor core body temperature",
       "Provide nutritional support"
     ],
-    correctAnswer: "Prevent nausea and vomiting"
+    correctIndex: "Prevent nausea and vomiting"
   },
   {
     question: "Which electrolyte imbalance is common in the emergent phase due to cellular trauma?",
@@ -1218,7 +1218,7 @@ const allQuestions = [
       "Calcium deficit",
       "Phosphorus excess"
     ],
-    correctAnswer: "Potassium excess"
+    correctIndex: "Potassium excess"
   },
   {
     question: "What is a key nursing intervention to promote gas exchange in burn patients?",
@@ -1228,7 +1228,7 @@ const allQuestions = [
       "Administer antacids",
       "Elevate burned extremities"
     ],
-    correctAnswer: "Provide humidified oxygen"
+    correctIndex: "Provide humidified oxygen"
   },
   {
     question: "Which complication is associated with circumferential burns on extremities?",
@@ -1238,7 +1238,7 @@ const allQuestions = [
       "Paralytic ileus",
       "Acute renal failure"
     ],
-    correctAnswer: "Compartment syndrome"
+    correctIndex: "Compartment syndrome"
   },
   {
     question: "What is the purpose of escharotomy in burn management?",
@@ -1248,12 +1248,12 @@ const allQuestions = [
       "Prevent infection",
       "Promote wound healing"
     ],
-    correctAnswer: "Restore blood flow to compromised tissues"
+    correctIndex: "Restore blood flow to compromised tissues"
   },
   {
     question: "Which medication is commonly administered to prevent Curling’s ulcer?",
     options: ["Opioids", "Ranitidine (Zantac)", "Antibiotics", "Diuretics"],
-    correctAnswer: "Ranitidine (Zantac)"
+    correctIndex: "Ranitidine (Zantac)"
   },
   {
     question: "What is the focus of the rehabilitation phase in burn care?",
@@ -1263,12 +1263,12 @@ const allQuestions = [
       "Wound debridement",
       "Pain management"
     ],
-    correctAnswer: "Physical and psychosocial recovery"
+    correctIndex: "Physical and psychosocial recovery"
   },
   {
     question: "Which of the following is a systemic factor affecting wound healing?",
     options: ["Pressure", "Nutritional status", "Trauma", "Necrosis"],
-    correctAnswer: "Nutritional status"
+    correctIndex: "Nutritional status"
   },
   {
     question: "What is a characteristic of full-thickness burns?",
@@ -1278,7 +1278,7 @@ const allQuestions = [
       "Minimal scarring",
       "Rapid healing"
     ],
-    correctAnswer: "Thrombosis of blood vessels"
+    correctIndex: "Thrombosis of blood vessels"
   },
   {
     question: "Which method is used to estimate the extent of a burn?",
@@ -1288,7 +1288,7 @@ const allQuestions = [
       "Urine output measurement",
       "Core temperature assessment"
     ],
-    correctAnswer: "\"Rule of nines\""
+    correctIndex: "\"Rule of nines\""
   },
   {
     question: "What is the primary cause of death at the scene of a fire?",
@@ -1298,57 +1298,57 @@ const allQuestions = [
       "Electric shock",
       "Chemical exposure"
     ],
-    correctAnswer: "Carbon monoxide poisoning"
+    correctIndex: "Carbon monoxide poisoning"
   },
   {
     question: "The epidermis is the innermost layer of the skin.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "Superficial burns affect only the epidermal layer.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Chemical burns are caused by exposure to acids or alkalis.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Full-thickness burns heal without scarring.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "The \"rule of nines\" allocates 18% TBSA to each leg.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "The emergent phase of burn care focuses on wound closure.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "Lactated Ringer’s solution is commonly used for fluid resuscitation in burn patients.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Inhalation injury is characterized by singed nostrils and hoarseness.",
     options: ["True", "False"],
-    correctAnswer: "True"
+    correctIndex: "True"
   },
   {
     question: "Potassium levels decrease in the emergent phase due to cellular trauma.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "The rehabilitation phase begins immediately after the burn injury.",
     options: ["True", "False"],
-    correctAnswer: "False"
+    correctIndex: "False"
   },
   {
     question: "What is the definition of a poison?",
@@ -1358,7 +1358,7 @@ const allQuestions = [
       "Substances that are always fatal",
       "Only illegal drugs"
     ],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "Which of the following is a common cause of poisoning?",
@@ -1368,7 +1368,7 @@ const allQuestions = [
       "Fresh fruits",
       "Exercise"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "What is a primary goal of emergency treatment for poisoning?",
@@ -1378,7 +1378,7 @@ const allQuestions = [
       "To ignore the type of poison ingested",
       "To delay treatment until symptoms appear"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Which substance should NOT induce vomiting if ingested?",
@@ -1388,7 +1388,7 @@ const allQuestions = [
       "Milk",
       "Activated charcoal"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "What is the first step in managing a poisoned patient?",
@@ -1398,7 +1398,7 @@ const allQuestions = [
       "Inducing vomiting immediately",
       "Giving oral fluids"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Which of the following is a sign of carbon monoxide poisoning?",
@@ -1408,7 +1408,7 @@ const allQuestions = [
       "High blood pressure",
       "Rapid healing"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "What is the purpose of activated charcoal in poisoning cases?",
@@ -1418,7 +1418,7 @@ const allQuestions = [
       "To replace lost fluids",
       "To clean the skin"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Which of the following is an example of an inhaled poison?",
@@ -1428,7 +1428,7 @@ const allQuestions = [
       "Prescription medication",
       "Mercury"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "What should be done if a patient has ingested a corrosive poison?",
@@ -1438,7 +1438,7 @@ const allQuestions = [
       "Ignore the situation",
       "Administer syrup of ipecac"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Which of the following is a symptom of poisoning?",
@@ -1448,7 +1448,7 @@ const allQuestions = [
       "Improved vision",
       "Weight gain"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "What is the role of an antidote in poisoning?",
@@ -1458,7 +1458,7 @@ const allQuestions = [
       "To replace lost blood",
       "To clean the stomach"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Which of the following is a nursing intervention for inhaled poisoning?",
@@ -1468,60 +1468,59 @@ const allQuestions = [
       "Administer syrup of ipecac",
       "Ignore the ABCs"
     ],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Poisoning can result from exposure to toxins, poisons, or other harmful substances.",
     options: ["True", "False"],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "Inducing vomiting is always the first step in treating poisoning.",
     options: ["True", "False"],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Carbon monoxide poisoning requires immediate treatment.",
     options: ["True", "False"],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "Activated charcoal is used to induce vomiting.",
     options: ["True", "False"],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Household products like nail polish remover can cause poisoning.",
     options: ["True", "False"],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "The \"rule of nines\" is used to estimate the extent of poisoning.",
     options: ["True", "False"],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Ingested corrosive poisons include alkaline and acid agents.",
     options: ["True", "False"],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "Syrup of ipecac is highly effective in preventing poisoning.",
     options: ["True", "False"],
-    correctAnswerIndex: 1
+    correctIndex: 1
   },
   {
     question: "Carbon monoxide binds to hemoglobin, reducing oxygen-carrying capacity.",
     options: ["True", "False"],
-    correctAnswerIndex: 0
+    correctIndex: 0
   },
   {
     question: "Monitoring vital signs is unnecessary in poisoning cases.",
     options: ["True", "False"],
-    correctAnswerIndex: 1
+    correctIndex: 1
   }
 ];
-
 
 
   function shuffleArray(array) {
